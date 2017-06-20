@@ -1,4 +1,4 @@
-baseurl = "http://me.agilesoftware.ninja"
+baseurl = "http://me.agilesoftware.ninja/"
 languageCode = "en-us"
 title = "Michal Klimuk Blog/Business card"
 theme = "beautifulhugo"
