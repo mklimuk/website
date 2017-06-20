@@ -1,0 +1,12 @@
+baseurl = "http://me.agilesoftware.ninja"
+languageCode = "en-us"
+title = "Michal Klimuk Blog/Business card"
+theme = "beautifulhugo"
+pygmentsuseclasses = true
+PygmentsCodeFences = true
+
+[params]
+  GithubID = "mklimuk"
+  TwitterID = "m1s13q"
+  Summary = false
+  Content = false
