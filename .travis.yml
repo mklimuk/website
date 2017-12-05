@@ -8,7 +8,7 @@ env:
   - DEPLOY_KEY: ".travis/id_rsa"
   - COMMIT_AUTHOR_EMAIL: michal.klimuk@gmail.com
 before_script:
-- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.23/hugo_0.23_Linux-64bit.tar.gz
+- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz
   | tar zxf -
 script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
