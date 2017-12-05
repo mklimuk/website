@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://me.agilesoftware.ninja/post/howdy/</loc>
+    <loc>http://michal.klimuk.me/post/howdy/</loc>
     <lastmod>2016-07-17T21:20:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://me.agilesoftware.ninja/categories/</loc>
+    <loc>http://michal.klimuk.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://me.agilesoftware.ninja/</loc>
-    <lastmod>2016-07-17T21:20:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://me.agilesoftware.ninja/post/</loc>
+    <loc>http://michal.klimuk.me/</loc>
     <lastmod>2016-07-17T21:20:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://me.agilesoftware.ninja/tags/</loc>
+    <loc>http://michal.klimuk.me/post/</loc>
+    <lastmod>2016-07-17T21:20:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michal.klimuk.me/tags/</loc>
     <priority>0</priority>
   </url>
   

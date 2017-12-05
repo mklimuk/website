@@ -5,7 +5,9 @@
   <meta charset="utf-8" />
 
   
-  <title>Michal Klimuk Blog/Business card</title>
+  <title>
+  Tags | Michal Klimuk Blog/Business card
+</title>
 
   
   
@@ -31,7 +33,7 @@
 <meta name="generator" content="Hugo 0.31.1" />
 
 
-<link rel="canonical" href="http://michal.klimuk.me/" />
+<link rel="canonical" href="http://michal.klimuk.me/tags/" />
 <link rel="alternative" href="/index.xml" title="Michal Klimuk Blog/Business card" type="application/atom+xml" />
 
 
@@ -66,6 +68,8 @@
 
 
 
+<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
+
 <link rel="stylesheet" href="/css/bundle.css" />
 
 
@@ -99,7 +103,7 @@
   <header class="site-header">
   <img class="avatar" src="" alt="Avatar">
   
-  <h1 class="title">Michal Klimuk Blog/Business card</h1>
+  <h2 class="title">Michal Klimuk Blog/Business card</h2>
   
   <p class="subtitle"></p>
   <button class="menu-toggle" type="button">
@@ -168,29 +172,14 @@
   </nav>
 </header>
 
-  <section class="main post-list">
-    <header class="list-header offscreen">
-      <h2 class="list-label">All Posts</h2>
+  <section class="main post-detail terms-list">
+    <header class="post-header">
+      <h1 class="post-title">Tags</h1>
     </header>
-    
-    
+    <div class="tags-cloud">
       
-        <article class="post-entry">
-  <header class="post-header">
-    <h3 class="post-title"><a href="http://michal.klimuk.me/post/howdy/" class="post-link">howdy</a></h3>
-    <p class="post-meta">@ · Jul 17, 2016 · 1 min read</p>
-  </header>
-  
-  <p class="post-summary"> There he goes. One of God’s own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.
- Hunter S. Thompson, Fear and Loathing in Las Vegas   int main(void) { return 1337; }</p>
-  <footer class="post-footer">
-    <a class="read-more" href="http://michal.klimuk.me/post/howdy/">Read More →</a>
-  </footer>
-</article>
-
       
-    
-    
+    </div>
   </section>
   <footer class="site-footer">
   <p>© 2017 Michal Klimuk Blog/Business card</p>
@@ -199,6 +188,30 @@
 </footer>
 
 
+
+<script async src="//cdn.bootcss.com/video.js/6.2.8/alt/video.novtt.min.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\[','\]']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+      extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+</script>
+<script type="text/x-mathjax-config">
+  // Fix <code> tags after MathJax finishes running. This is a
+  // hack to overcome a shortcoming of Markdown. Discussion at
+  // https://github.com/mojombo/jekyll/issues/199
+  MathJax.Hub.Queue(() => {
+    MathJax.Hub.getAllJax().map(v => v.SourceElement().parentNode.className += ' has-jax');
+  });
+</script>
 
 <script src="/js/bundle.js"></script>
 
