@@ -1,12 +1,15 @@
 baseurl = "http://michal.klimuk.me/"
 languageCode = "en-us"
-title = "Michal Klimuk Blog/Business card"
+title = "Michal Klimuk"
 theme = "hugo-nuo"
 pygmentsuseclasses = true
 PygmentsCodeFences = true
 
 [params]
-  GithubID = "mklimuk"
-  TwitterID = "m1s13q"
+  github = "mklimuk"
+  twitter = "m1s13q"
+  linkedin = "mklimuk"
   Summary = false
   Content = false
+  subtitle = "simplicity is the key"
+  avatar = "/images/avatar.jpg"
