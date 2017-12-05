@@ -1,7 +1,7 @@
-baseurl = "http://me.agilesoftware.ninja/"
+baseurl = "http://michal.klimuk.me/"
 languageCode = "en-us"
 title = "Michal Klimuk Blog/Business card"
-theme = "beautifulhugo"
+theme = "hugo-nuo"
 pygmentsuseclasses = true
 PygmentsCodeFences = true
 
