@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michal Klimuk Blog/Business card</title>
+    <title>Michal Klimuk</title>
     <link>http://michal.klimuk.me/</link>
-    <description>Recent content on Michal Klimuk Blog/Business card</description>
+    <description>Recent content on Michal Klimuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2016 21:20:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 15:20:46 +0200</lastBuildDate>
     
 	<atom:link href="http://michal.klimuk.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>howdy</title>
-      <link>http://michal.klimuk.me/post/howdy/</link>
-      <pubDate>Sun, 17 Jul 2016 21:20:46 +0200</pubDate>
+      <title>introduction</title>
+      <link>http://michal.klimuk.me/post/intro/</link>
+      <pubDate>Tue, 05 Dec 2017 15:20:46 +0200</pubDate>
       
-      <guid>http://michal.klimuk.me/post/howdy/</guid>
-      <description> There he goes. One of God&amp;rsquo;s own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.
- Hunter S. Thompson, Fear and Loathing in Las Vegas   int main(void) { return 1337; }</description>
+      <guid>http://michal.klimuk.me/post/intro/</guid>
+      <description> To think in terms of either pessimism or optimism oversimplifies the truth. The problem is to see reality as it is.
+ Thích Nhất HạnhThere   int main(void) { return 1337; }</description>
     </item>
     
   </channel>
