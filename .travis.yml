@@ -14,5 +14,5 @@ script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
   --short HEAD` ./hugo
 after_success:
-- echo "me.agilesoftware.ninja" >> public/CNAME
+- echo "michal.klimuk.me" >> public/CNAME
 - "./.travis/deploy.sh"
