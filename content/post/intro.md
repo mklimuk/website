@@ -8,7 +8,7 @@ title = "introduction"
 > To think in terms of either pessimism or optimism oversimplifies the truth.
 > The problem is to see reality as it is.
 >
-> - Thích Nhất HạnhThere
+> _Thích Nhất HạnhThere_
 
 ```c
 int main(void)
